@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Random Off
- * Plugin URI:        https://wordpress.org/plugins/random-off/
+ * Plugin Name:       Disable Random Redirect
+ * Plugin URI:        https://wordpress.org/plugins/disable-random-redirect/
  * Description:       Disables the /random/ redirect added in WordPress 7.2.
  * Version:           1.0.0
  * Requires at least: 7.2
@@ -10,9 +10,9 @@
  * Author URI:        https://tmeister.dev
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       random-off
+ * Text Domain:       disable-random-redirect
  *
- * @package RandomOff
+ * @package DisableRandomRedirect
  */
 
 defined( 'ABSPATH' ) || exit;

@@ -1,4 +1,4 @@
-# Random Off
+# Disable Random Redirect
 
 Disables the `/random/` redirect that WordPress 7.2 adds to your site.
 
@@ -26,20 +26,20 @@ It stores no data, adds no database tables, and makes no external requests.
 
 **From WordPress.org**
 
-1. In your admin, go to **Plugins → Add New** and search for "Random Off".
+1. In your admin, go to **Plugins → Add New** and search for "Disable Random Redirect".
 2. Click **Install Now**, then **Activate**.
 
 **From this repo**
 
 ```bash
 cd wp-content/plugins
-git clone https://github.com/Tmeister/wp-random-off.git random-off
+git clone https://github.com/Tmeister/wp-random-off.git disable-random-redirect
 ```
 
-Then activate **Random Off** on the Plugins screen. You can also do it with WP-CLI:
+Then activate **Disable Random Redirect** on the Plugins screen. You can also do it with WP-CLI:
 
 ```bash
-wp plugin activate random-off
+wp plugin activate disable-random-redirect
 ```
 
 **Without the plugin**
