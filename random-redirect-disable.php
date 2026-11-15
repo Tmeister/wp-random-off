@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Disable Random Redirect
- * Plugin URI:        https://wordpress.org/plugins/disable-random-redirect/
+ * Plugin Name:       Tmeister Random Redirect Disable
+ * Plugin URI:        https://wordpress.org/plugins/tmeister-random-redirect-disable/
  * Description:       Disables the /random/ redirect added in WordPress 7.2.
  * Version:           1.0.0
  * Requires at least: 7.2
@@ -10,9 +10,9 @@
  * Author URI:        https://tmeister.dev
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       disable-random-redirect
+ * Text Domain:       tmeister-random-redirect-disable
  *
- * @package DisableRandomRedirect
+ * @package TmeisterRandomRedirectDisable
  */
 
 defined( 'ABSPATH' ) || exit;

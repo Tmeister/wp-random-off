@@ -1,4 +1,4 @@
-=== Disable Random Redirect ===
+=== Tmeister Random Redirect Disable ===
 Contributors: tmeister
 Tags: random, redirect, disable
 Requires at least: 7.2
@@ -12,7 +12,7 @@ Disables the /random/ redirect that WordPress 7.2 adds to your site.
 
 == Description ==
 
-WordPress 7.2 adds a `/random/` URL that redirects visitors to a random piece of content on your site. If you don't want that, Disable Random Redirect turns it off.
+WordPress 7.2 adds a `/random/` URL that redirects visitors to a random piece of content on your site. If you don't want that, Tmeister Random Redirect Disable turns it off.
 
 There are no settings. Activate the plugin and the redirect is disabled. Deactivate it and the core behavior comes back.
 
@@ -24,10 +24,10 @@ It does not store data, add database tables, or contact external services.
 
 == Installation ==
 
-1. In your admin, go to Plugins > Add New and search for "Disable Random Redirect".
+1. In your admin, go to Plugins > Add New and search for "Tmeister Random Redirect Disable".
 2. Click Install Now, then Activate.
 
-Or upload the `disable-random-redirect` folder to `/wp-content/plugins/` and activate it from the Plugins screen.
+Or upload the `tmeister-random-redirect-disable` folder to `/wp-content/plugins/` and activate it from the Plugins screen.
 
 == Frequently Asked Questions ==
 

@@ -1,4 +1,4 @@
-# Disable Random Redirect
+# Tmeister Random Redirect Disable
 
 Disables the `/random/` redirect that WordPress 7.2 adds to your site.
 
@@ -26,20 +26,20 @@ It stores no data, adds no database tables, and makes no external requests.
 
 **From WordPress.org**
 
-1. In your admin, go to **Plugins → Add New** and search for "Disable Random Redirect".
+1. In your admin, go to **Plugins → Add New** and search for "Tmeister Random Redirect Disable".
 2. Click **Install Now**, then **Activate**.
 
 **From this repo**
 
 ```bash
 cd wp-content/plugins
-git clone https://github.com/Tmeister/wp-random-off.git disable-random-redirect
+git clone https://github.com/Tmeister/wp-random-off.git tmeister-random-redirect-disable
 ```
 
-Then activate **Disable Random Redirect** on the Plugins screen. You can also do it with WP-CLI:
+Then activate **Tmeister Random Redirect Disable** on the Plugins screen. You can also do it with WP-CLI:
 
 ```bash
-wp plugin activate disable-random-redirect
+wp plugin activate tmeister-random-redirect-disable
 ```
 
 **Without the plugin**
