@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Disables the /random/ redirect that WordPress 7.2 adds to your site.
+Turns off the /random/ URL (introduced in WordPress 7.2) that sends visitors to a random post or page.
 
 == Description ==
 
-WordPress 7.2 adds a `/random/` URL that redirects visitors to a random piece of content on your site. If you don't want that, Tmeister Random Redirect Disable turns it off.
+WordPress adds a `/random/` URL that redirects visitors to a random piece of content on your site. If you don't want that, Tmeister Random Redirect Disable turns it off.
 
 There are no settings. Activate the plugin and the redirect is disabled. Deactivate it and the core behavior comes back.
 

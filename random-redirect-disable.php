@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Tmeister Random Redirect Disable
  * Plugin URI:        https://wordpress.org/plugins/tmeister-random-redirect-disable/
- * Description:       Disables the /random/ redirect added in WordPress 7.2.
+ * Description:       Turns off the /random/ URL (introduced in WordPress 7.2) that sends visitors to a random post or page.
  * Version:           1.0.0
  * Requires at least: 7.2
  * Requires PHP:      7.4

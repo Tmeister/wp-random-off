@@ -1,6 +1,6 @@
 # Tmeister Random Redirect Disable
 
-Disables the `/random/` redirect that WordPress 7.2 adds to your site.
+Turns off the `/random/` URL (introduced in WordPress 7.2) that sends visitors to a random post or page.
 
 ![Requires WordPress 7.2+](https://img.shields.io/badge/WordPress-7.2%2B-21759b?logo=wordpress)
 ![Requires PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777bb4?logo=php)
@@ -8,7 +8,7 @@ Disables the `/random/` redirect that WordPress 7.2 adds to your site.
 
 ## Why
 
-WordPress 7.2 adds a `/random/` URL that sends visitors to a random piece of content on your site. If you'd rather not have it, this plugin turns it off.
+WordPress adds a `/random/` URL (introduced in WordPress 7.2) that sends visitors to a random piece of content on your site. If you'd rather not have it, this plugin turns it off.
 
 There are no settings. Activate the plugin to disable the redirect, and deactivate it to bring the core behavior back.
 
