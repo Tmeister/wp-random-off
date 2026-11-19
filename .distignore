@@ -1,0 +1,9 @@
+# Files and folders left out of the WordPress.org package
+/.wordpress-org
+/.git
+/.github
+.distignore
+.gitignore
+.gitattributes
+.DS_Store
+README.md
